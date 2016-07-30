@@ -1,3 +1,3 @@
 # FlappyDog
 
-This is a flappy bird clone made in Processing.
+This is a Flappy Bird clone made in Processing.
